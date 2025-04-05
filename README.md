@@ -7,8 +7,8 @@
 
 ---
 
-```markdown
-#🎬 Cornell Movie Chatbot
+
+🎬 Cornell Movie Chatbot
 
 A simple chatbot powered by real movie dialogues from the Cornell Movie Dialogs Corpus.
 
@@ -16,13 +16,13 @@ Built with **Python**, **Pandas**, and **Gradio**, and deployed on **Hugging Fac
 
 
 
-##🚀 Demo
+🚀 Demo
 
 👉 [Live Chatbot on Hugging Face](https://huggingface.co/spaces/HemachandRavulapalli/cornell-chatbot)
 
 
 
-##📚 Dataset
+📚 Dataset
 
 This bot uses a cleaned version of the [Cornell Movie Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) where:
 - Each input line is paired with a response
@@ -46,7 +46,7 @@ pip install pandas gradio
 
 # Run the chatbot
 python app.py
-```
+
 
 ---
 
